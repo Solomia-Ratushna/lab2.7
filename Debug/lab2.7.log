@@ -1,0 +1,9 @@
+﻿  Account.cpp
+C:\Users\ADMIN\Desktop\здати\lab2.7\lab2.7\Account.cpp(185,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ADMIN\Desktop\здати\lab2.7\lab2.7\Account.cpp(195,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Money.cpp
+  Source.cpp
+  Generating Code...
+C:\Users\ADMIN\Desktop\здати\lab2.7\lab2.7\Money.cpp(400): warning C4715: 'operator/': not all control paths return a value
+C:\Users\ADMIN\Desktop\здати\lab2.7\lab2.7\Account.cpp(217): warning C4172: returning address of local variable or temporary: s
+  lab2.7.vcxproj -> C:\Users\ADMIN\Desktop\здати\lab2.7\lab2.7\Debug\lab2.7.exe
